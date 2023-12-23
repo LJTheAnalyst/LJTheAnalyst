@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lawrence J. MBA! <br/><a href="https://linkedin.com/in/lawrence-jones-mba">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">GRC</a>, <a href="https://www.youtube.com/c/joshmadakor">Process Improvement</a></h1>
+<h1>Hi, I'm Lawrence J. MBA! <br/><a href="https://linkedin.com/in/lawrence-jones-mba">Cybersecurity Professional</a>, <a href="https://linkedin.com/in/lawrence-jones-mba">GRC</a>, <a href="https://linkedin.com/in/lawrence-jones-mba">Process Improvement</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
