@@ -4,7 +4,7 @@
 
 - <b>[Nessus Vulnerability Management](https://github.com/LJTheAnalyst/NessusVulnerabilityLab)</b> 
 - <b>[Active Directory Home Lab](https://github.com/LJTheAnalyst/ActiveDirectory)</b>
-- <b>[Elastic (ELK) SIEM Home Lab](https://github.com/LJTheAnalyst/SplunkHomeLab)</b>
+- <b>[Elastic (ELK) SIEM Home Lab](https://github.com/LJTheAnalyst/ElasticSIEMLab)</b>
 - <b>[Splunk Event Management Home Lab](https://github.com/LJTheAnalyst/SplunkHomeLab)</b>
 
 
